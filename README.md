@@ -1,4 +1,4 @@
-# 🚲 Bikezone – KTM Bike Website
+#  Bikezone – KTM Bike Website
 
 Bikezone is a full-stack web application developed to showcase KTM bike models and provide a simple booking experience.  
 This project was built to practice backend development with Django and frontend web technologies.
@@ -26,7 +26,7 @@ This project was built to practice backend development with Django and frontend 
 
 ##  Live Demo
 
-🔗 https://kirubananthan.pythonanywhere.com
+ https://kirubananthan.pythonanywhere.com
 
 ---
 
